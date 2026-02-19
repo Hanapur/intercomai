@@ -31,6 +31,4 @@ node app.js
 
 ## 📸 Screenshot Proof
 
-![Intercom AI Engine Screenshot](./intercom_screenshot.png)
-
-
+![Image](https://github.com/user-attachments/assets/427e9a76-d32b-4206-a737-22b1df1e27de)
